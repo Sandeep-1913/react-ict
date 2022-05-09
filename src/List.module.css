@@ -1,0 +1,15 @@
+.list {
+  border: 1px solid transparent;
+  height: 40px;
+  max-width: 100%;
+  cursor: pointer;
+  font-size: 18px;
+  text-align: left;
+  font-family: "Open sans" sans-serif;
+}
+.list :nth-of-type(even) {
+  background-color: #fff;
+}
+.list :nth-of-type(odd) {
+  background-color: #eaeaf8;
+}

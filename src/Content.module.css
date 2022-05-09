@@ -1,0 +1,39 @@
+.header2 {
+  font-size: 32px;
+  font-weight: 700;
+  border-bottom: 5px solid #333;
+  margin-bottom: 10px;
+}
+
+.content {
+  width: 70%;
+  min-height: 70vh;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.data {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+  .content {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .content {
+    width: 100%;
+  }
+  .data {
+    display: block;
+  }
+  .emplist,
+  .empcard {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}

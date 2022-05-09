@@ -1,0 +1,18 @@
+.top {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.top img {
+  width: 200px;
+  height: 200px;
+}
+
+@media screen and (max-width: 420px) {
+  .top {
+    display: block;
+  }
+  .top img {
+    width: 100%;
+  }
+}

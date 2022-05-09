@@ -1,0 +1,102 @@
+[
+  {
+    "image": "./images/man.jpg",
+    "name": "Sandeep",
+    "EmpID": "1",
+    "Technologies": "ReactJS",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/man.jpg",
+    "name": "Subbu",
+    "EmpID": "2",
+    "Technologies": "Web Design",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/woman.jpg",
+    "name": "Radha",
+    "EmpID": "3",
+    "Technologies": "Angular",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/man.jpg",
+    "name": "Mani",
+    "EmpID": "4",
+    "Technologies": "ReactJS",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/woman.jpg",
+    "name": "Sravani",
+    "EmpID": "5",
+    "Technologies": "Python",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/man.jpg",
+    "name": "Aditya",
+    "EmpID": "6",
+    "Technologies": "Angular",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/woman.jpg",
+    "name": "Sindhu",
+    "EmpID": "7",
+    "Technologies": "C++",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/man.jpg",
+    "name": "Srihari",
+    "EmpID": "8",
+    "Technologies": "Java",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/woman.jpg",
+    "name": "Saranya",
+    "EmpID": "9",
+    "Technologies": "C++, Java",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  },
+  {
+    "image": "./images/man.jpg",
+    "name": "Chakri",
+    "EmpID": "10",
+    "Technologies": "Linux",
+    "Location": "Bangalore",
+    "TotalExp": "3yrs",
+    "Role": "Associate",
+    "DOJ": "15/11/2018"
+  }
+]
